@@ -1,0 +1,7 @@
+{
+  "name": "jrdv",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
